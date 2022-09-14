@@ -194,19 +194,19 @@ include('layout/header.php');
                             <p>Os custos de manutenção de estoques podem ser subdivididos em diferentes classes:</p>
 
                             <ul class="none Texto">
-                                <li><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custo de espaço:</strong> desde simples contratos de aluguel de armazéns e galpões até cobranças por metro quadrado ocupado, no caso de contratos de terceirização, muitas vezes esses custos também são atrelados aos períodos de tempo a serem utilizados.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custo de espaço:</strong> desde simples contratos de aluguel de armazéns e galpões até cobranças por metro quadrado ocupado, no caso de contratos de terceirização, muitas vezes esses custos também são atrelados aos períodos de tempo a serem utilizados.</li>
                                 <br>
-                                <li><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custo de capital:</strong> refere-se ao capital diretamente investido no estoque e também do custo de oportunidade de não tê-lo investido em outra aplicação qualquer.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custo de capital:</strong> refere-se ao capital diretamente investido no estoque e também do custo de oportunidade de não tê-lo investido em outra aplicação qualquer.</li>
                                 <br>
-                                <li><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custo de pessoal envolvido:</strong> é o custo mensal de toda a mão de obra envolvida em atividades diretamente relacionadas aos estoques, tais como: o pessoal de manuseio, controle e gerenciamento, inclusive encargos trabalhistas.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custo de pessoal envolvido:</strong> é o custo mensal de toda a mão de obra envolvida em atividades diretamente relacionadas aos estoques, tais como: o pessoal de manuseio, controle e gerenciamento, inclusive encargos trabalhistas.</li>
                                 <br>
-                                <li><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custos de equipamento e manutenção:</strong> São as despesas mensais para manter os estoques, incluindo a depreciação dos equipamentos, maquinários ali utilizados e suas despesas de manutenção.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custos de equipamento e manutenção:</strong> São as despesas mensais para manter os estoques, incluindo a depreciação dos equipamentos, maquinários ali utilizados e suas despesas de manutenção.</li>
                                 <br>
-                                <li><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custo de serviço:</strong> enquadram diversas taxas cobradas por serviços de gestão das mais variadas naturezas, além de impostos decorrentes da armazenagem e uso do espaço e também seguros da carga ali mantida.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custo de serviço:</strong> enquadram diversas taxas cobradas por serviços de gestão das mais variadas naturezas, além de impostos decorrentes da armazenagem e uso do espaço e também seguros da carga ali mantida.</li>
                                 <br>
-                                <li><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custo de Pedido:</strong> Cada vez que uma requisição ou pedido é emitido, incorrem custos fixos e variáveis referentes a esse processo. Os custos fixos são os associados aos salários do pessoal envolvido na emissão dos pedidos e não são afetados pela política existente de estoque. Os custos variáveis consistem nas fichas de pedidos e nos processos de enviar esses pedidos aos fornecedores, bem como, todos os recursos necessários para tal procedimento. Portanto, o custo de pedido está diretamente determinado com base no volume das requisições ou pedidos que ocorrem no período.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custo de Pedido:</strong> Cada vez que uma requisição ou pedido é emitido, incorrem custos fixos e variáveis referentes a esse processo. Os custos fixos são os associados aos salários do pessoal envolvido na emissão dos pedidos e não são afetados pela política existente de estoque. Os custos variáveis consistem nas fichas de pedidos e nos processos de enviar esses pedidos aos fornecedores, bem como, todos os recursos necessários para tal procedimento. Portanto, o custo de pedido está diretamente determinado com base no volume das requisições ou pedidos que ocorrem no período.</li>
                                 <br>
-                                <li><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custo de risco:</strong> manter estoques pode causar enormes prejuízos. Primeiro, no caso de mercadorias perecíveis, a manutenção de altos estoques pode gerar excesso de produtos para posterior distribuição, gerando sobre-ofertas e fazendo com que esses itens estraguem ou sejam desperdiçados antes de repassados ao consumidor. Riscos ainda afligem aqueles que mantêm produtos de rápida evolução, como celulares – o lançamento de novos modelos pode reduzir o valor de revenda ou mesmo tornar completamente obsoletos produtos estocados em excesso.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custo de risco:</strong> manter estoques pode causar enormes prejuízos. Primeiro, no caso de mercadorias perecíveis, a manutenção de altos estoques pode gerar excesso de produtos para posterior distribuição, gerando sobre-ofertas e fazendo com que esses itens estraguem ou sejam desperdiçados antes de repassados ao consumidor. Riscos ainda afligem aqueles que mantêm produtos de rápida evolução, como celulares – o lançamento de novos modelos pode reduzir o valor de revenda ou mesmo tornar completamente obsoletos produtos estocados em excesso.</li>
                             </ul>
 
 
@@ -592,11 +592,12 @@ include('layout/header.php');
                                 </div>
                             </div>
 
+                            <br><br>
                             <!-- SubSubTitulo -->
                             <p class="SubSubTitulo">Métodos de Cálculo do Estoque Mínimo</p>
                             <hr>
 
-                            <div class="card">
+                            <br><div class="card">
                                 <div class="card-body">
                                     <p><strong>a) Fórmula Simples:</strong></p>
 
@@ -647,12 +648,12 @@ include('layout/header.php');
                             <p>São objetivos da função de suprimentos:</p>
 
                             <ol type="a" class="Texto">
-                                <li> Permitir continuidade de suprimentos para o perfeito fluxo produtivo.</li>
-                                <li> Coordenar os fluxos com o mínimo de gastos em estoques e adequado ao cumprimento dos programas de produção.</li>
-                                <li> Comprar materiais e produtos aos mais baixos custos, dentro das especificações predeterminadas em qualidade, prazos e preços.</li>
-                                <li> Evitar desperdícios e obsolescência de materiais por meio de avaliação e percepção do mercado fornecedor.</li>
-                                <li> Permitir a organização uma posição de destaque, mediante negociações justas e de credibilidade.</li>
-                                <li> Manter bom relacionamento com fornecedores para garantir contínuo suprimento. </li>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"> Permitir continuidade de suprimentos para o perfeito fluxo produtivo.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.6s"> Coordenar os fluxos com o mínimo de gastos em estoques e adequado ao cumprimento dos programas de produção.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.9s"> Comprar materiais e produtos aos mais baixos custos, dentro das especificações predeterminadas em qualidade, prazos e preços.</li>
+                                <li class="wow fadeInDown" data-wow-delay="1.3s"> Evitar desperdícios e obsolescência de materiais por meio de avaliação e percepção do mercado fornecedor.</li>
+                                <li class="wow fadeInDown" data-wow-delay="1.6s"> Permitir a organização uma posição de destaque, mediante negociações justas e de credibilidade.</li>
+                                <li class="wow fadeInDown" data-wow-delay="1.9s"> Manter bom relacionamento com fornecedores para garantir contínuo suprimento. </li>
                             </ol>
 
                             <p>O planejamento de compras por intermédio do Sistema de Registro de Preços – SRP trata de um conjunto de procedimentos para seleção de proposta mais vantajosa visando o registro formal de preços para futuras e eventuais contratações de bens, produtos e serviços. O Sistema de Registro de Preço é regulamentado pelo art. 15 da lei federal nº 8.666 de 21 de Junho de 1993 e pelo art. 11 da lei federal nº 10.520 de 17 de julho de 2002.</p>
@@ -660,10 +661,10 @@ include('layout/header.php');
                             <p>O SRP é adequado para compra de bens, materiais e serviços que apresentem as seguintes características:</p>
 
                             <ul class="none Texto">
-                                <li>Necessitem de contratações frequentes;</li>
-                                <li>Quando for conveniente para administração a contratação com entrega parcelada;</li>
-                                <li>Quando for conveniente para administração a contratação para mais de um órgão ou entidade da Administração Pública.</li>
-                                <li>Quando pela natureza do objeto não for possível definir previamente o quantitativo exato a ser demandado pela administração.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Necessitem de contratações frequentes;</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Quando for conveniente para administração a contratação com entrega parcelada;</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Quando for conveniente para administração a contratação para mais de um órgão ou entidade da Administração Pública.</li>
+                                <li class="wow fadeInDown" data-wow-delay="1.3s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Quando pela natureza do objeto não for possível definir previamente o quantitativo exato a ser demandado pela administração.</li>
                             </ul>
 
                             <p>Considerando essas quatro características, é efetuado um único processo licitatório por intermédio do Órgão Central Gestor de Compras, contemplando vários órgãos e entidades do ente federativo, cujo objeto da licitação é um determinado bem, material ou serviço que terá seu preço fixado por um ano com uma estimativa de consumo para esse período, onde os órgão e entidades participantes do registro de preço poderão efetuar suas Ordens de Compra de forma parcelada à medida que lhe convier, sem que necessariamente se obrigue a adquirir o total da quantidade estimada para o período.</p>
@@ -775,10 +776,10 @@ include('layout/header.php');
                             <p>Procedimentos:</p>
 
                             <ol class="Texto">
-                                <li>1) Deve-se verificar a duração do tempo de ressuprimento para o item considerado.</li>
-                                    <li>2) Deve-se fazer uma previsão da demanda do item a cada período.</li>
-                                    <li>3) Deve-se adicionar um estoque de segurança para compensar as incertezas da previsão da demanda e do tempo de ressuprimento.</li>
-                                    <li>4) Considerando essas informações projetar o nível de demanda que o estoque deverá cobrir e emitir as Ordens de Compra conforme estas projeções.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s">1) Deve-se verificar a duração do tempo de ressuprimento para o item considerado.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s">2) Deve-se fazer uma previsão da demanda do item a cada período.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s">3) Deve-se adicionar um estoque de segurança para compensar as incertezas da previsão da demanda e do tempo de ressuprimento.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s">4) Considerando essas informações projetar o nível de demanda que o estoque deverá cobrir e emitir as Ordens de Compra conforme estas projeções.</li>
                             </ol>
 
                             <p>b) Ponto de Reposição - PR: Conhecido, também, como Método do Estoque Mínimo, objetiva reduzir os custos de manutenção de estoques, mas sem correr o risco de não se atender a demanda. O objetivo é encontrar o nível ótimo de estoques para um determinado produto.</p>
@@ -788,35 +789,397 @@ include('layout/header.php');
                             <p>A finalidade do ponto de reposição é iniciar o processo de ressuprimento com segurança suficiente para que não ocorra a falta do material. O PR é calculado multiplicando-se a taxa de consumo pelo tempo de ressuprimento.</p>
 
                             <p>Pode ser determinado pela seguinte fórmula:</p>
-                            
+
                             <p>PR = C x TR + EMIN</p>
-                            
+
                             <p>Onde: PR = Ponto de Reposição.</p>
-                            
+
                             <p>C = Consumo Médio Mensal.</p>
-                            
+
                             <p>TR = Tempo de Ressuprimento</p>
-                            
+
                             <p>EMIN = Estoque Mínimo.</p>
 
                             <p>Procedimentos:</p>
-                            
+
                             <p>1) Identificar o Estoque Total ET: ET = Estoque Físico + Saldo de Fornecimento + Estoque em Inspeção</p>
-                            
+
                             <p>2) Calcular o Estoque Mínimo (usando a fórmula simples): EMIN = C x K</p>
-                            
+
                             <p>Onde:</p>
-                            
+
                             <p>C = Consumo Médio</p>
-                            
+
                             <p>K = Fator de segurança proporcional ao grau de atendimento desejado com relação ao Consumo Médio em percentual.</p>
-                            
+
                             <p>3) Estimar o TR com base na média de tempo de atendimento da série de Ordens de Compra passadas.</p>
-                            
+
                             <p>4) Aplicar a fórmula do PR.</p>
-                            
+
                             <p>5) Monitorar o nível de Estoque Total e quando o ET atingir o PR efetuar a Ordem de Compra com o quantitativo resultante da fórmula.</p>
-                            
+
+                            <!-- SubTitulo -->
+                            <p class="SubTitulo">Recebimento De Materiais</p>
+                            <hr>
+
+                            <p>Até o momento neste curso tivemos a oportunidade de estudar várias questões inerentes à gestão de materiais de consumo, primeiramente estudamos a certificação de fornecedores e sua importância na determinação do nível de produção de bens ou serviços de uma organização, passando pela diferenciação entre material de consumo e material permanente tomando como referência inicial o critério da durabilidade. Estudamos também a classificação e catalogação de materiais que possibilita, a partir da caracterização dos materiais, a padronização, simplificação e especificação de forma que estes sejam individualizados facilitando sua aquisição, recebimento, manejo e aplicação. Agora encerrando o ciclo de estudos de controle de estoque e ressuprimento estudando a atividade de recebimento de materiais de forma que possamos compreender a sua importância como um ponto de controle para avaliação da qualidade de atendimento dos fornecedores, no tocante a prazo, qualidade e volume de pedido.</p>
+
+                            <p>Em termos práticos o processo de recebimento de materiais e bens pode ser subdividido em 3 atividades: agendamento de recebimento, recebimento de materiais e bens e regularização do recebimento.</p>
+
+                            <!-- SubSubTitulo -->
+                            <p class="SubSubTitulo">Agendamento De Recebimento</p>
+                            <hr>
+
+                            <p>Toda e qualquer atividade mesmo a mais simples que possa parecer é mais bem executada quando é antecipadamente planejada. O recebimento de materiais é um ponto crítico de controle por que é o momento em que a organização atesta o aceite dos materiais que foram pedidos ao fornecedor e a partir deste aceite será efetuado o pagamento ao mesmo. Além do mais, planejar essa atividade é fundamental por se tratar do início do ciclo operacional do almoxarifado, e nesse momento qualquer problema, que não seja prontamente resolvido, poderá comprometer as atividades seguintes na boa gestão do almoxarifado.</p>
+
+                            <p>No planejamento do recebimento são importantes que sejam asseguradas as seguintes etapas:</p>
+
+                            <p><strong class="CorVerdeClaroEstado"><i class="fa fa-arrow-right"></i> Configuração da área de recebimento:</strong> O almoxarifado geralmente é um setor muito requisitado por outros departamentos da organização e por isso deve operar com um alto nível de eficiência para que não haja pendências de suprimento que comprometam a operação de outros setores. Por se tratar de um setor de apoio operacional, a prioridade do almoxarifado sempre será atender as solicitações de consumo com um alto nível de serviço e para que isso aconteça os materiais deverão antecipadamente estar armazenados de forma organizada, com rápida localização e acesso facilitado. Dessa forma, na configuração do armazém, é imprescindível que tenha delimitada uma área exclusiva para o recebimento para que durante esse processo não haja interferência na atividade principal do almoxarifado que é atender as requisições de consumo de material.</p>
+
+                            <p>É muito difícil estabelecer uma fórmula para delimitar o tamanho adequado da área de recebimento devido à concorrência cada vez maior com a disponibilidade para área de armazenagem. Mais adiante nesta disciplina, quando estudarmos especificamente o leiaute do armazém voltaremos a tratar melhor esta questão.</p>
+
+                            <p><strong class="CorVerdeClaroEstado"><i class="fa fa-arrow-right"></i> Definição da capacidade de recebimento:</strong> Delimitada uma área de recebimento, já se pode saber o quanto é possível descarregar de uma só vez para que seja efetuada a inspeção de recebimento. É recomendável que esta área seja dividida em quadrantes, facilmente identificada por numeração seqüencial, visando facilitar o controle dos volumes inspecionados, muitas vezes a carga é menor que a área delimitada, ou pode-se receber cargas de várias origens em um mesmo descarregamento. A divisão em quadrantes ajuda no sequenciamento da operação e na divisão de trabalho do pessoal envolvido.</p>
+
+                            <p>Outra questão a considerar na definição da capacidade de recebimento é a disponibilidade de pessoal qualificado para proceder as conferências de recebimento (quantitativa e qualitativa), a regularização e registro no controle de estoque assim como a armazenagem dos materiais. E finalmente estabelecer o tempo necessário para que todo esse ciclo seja cumprido, até que a área de recebimento esteja desocupada para um novo descarregamento. A capacidade de recebimento é expressa em quadrante-hora, evidentemente que esta medida poderá variar em função da quantidade de pessoal envolvido, mas se for mantida uma quantidade padrão de pessoas envolvidas no recebimento esta variável poderá ser controlada.</p>
+
+                            <p><strong class="CorVerdeClaroEstado"><i class="fa fa-arrow-right"></i> Elaboração da Agenda de Recebimentos:</strong> À medida que os pedidos de fornecimento vão sendo confirmados, pelo departamento de compras, para recebimento dentro de determinado período, o almoxarifado prepara a Agenda de Recebimento considerando além do volume de pedido confirmado a capacidade de recebimento estabelecida, delimitando assim a quantidade de veículos que poderão ser descarregados no período estabelecido. De posse da Agenda de Recebimento o almoxarifado monitora junto aos transportadores a expectativa de recebimento da carga, e mobiliza o pessoal envolvido para o recebimento. A Agenda de Recebimento é um instrumento muito importante para a integração do almoxarifado com os demais departamentos da organização:</p>
+
+                            <ul class="none Texto">
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Departamento de Compras: para balanceamento dos prazos de entrega de novos pedidos de fornecimento com o que já está programado para recebimento, auxiliando assim o diligenciamento das compras;</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Setor de Portaria: para o controle de entrada e saída de veículos de descarregamento nas dependências da organização, liberando os veículos à medida que o almoxarifado esteja mobilizado para o recebimento;</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Departamento Financeiro: para confirmação dos pagamentos programados, conforme o atesto de recebimento das Ordens de Compra.</li>
+                            </ul>
+
+                            <p>É recomendável uma análise prévia do conteúdo das Ordens de Compras agendadas para recebimento para um bom planejamento dos recebimentos principalmente com relação a fatores como:</p>
+
+                            <ul class="none Texto">
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-cube CorVerdeClaroEstado"></i>
+                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Existência na Ordem de Compra de itens de materiais novos ainda não cadastrados no sistema de controle de estoque e que precisam de maiores informações e maior tempo para regularização;</li>
+                                </li>
+                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-cube CorVerdeClaroEstado"></i>
+                                <li class="wow fadeInDown" data-wow-delay="1.3s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Nível de fracionamento e acondicionamento em unidades de fornecimento dos materiais constantes na Ordem de Compra de forma a adequar ao máximo os equipamentos e procedimentos de movimentação no recebimento um exemplo disso são os materiais recebidos a granel;</li>
+                                </li>
+                                <li class="wow fadeInDown" data-wow-delay="1.6s"><i class="fa fa-cube CorVerdeClaroEstado"></i>
+                                <li class="wow fadeInDown" data-wow-delay="1.9s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Itens de material que necessitam de laudo técnico de área especializada para que possam ter o atesto de recebimento, entre outras questões.</li>
+                                </li>
+                            </ul>
+
+                            <p>Outro fator importante que pode também ser previsto com antecedência ao recebimento de materiais é a disponibilização de espaço para armazenagem dos itens que serão recebidos, isso dinamiza a movimentação de armazenamento do material liberando mais rapidamente a área de recebimento para outros recebimentos agendados. Apesar da atividade de recebimento de material ter menor intensidade que a atividade de atendimento de requisição para consumo, pela própria dinâmica com que são efetuadas as compras para ressuprimento de estoque, a entrega dos fornecedores tendem a concorrerem em um mesmo período de tempo, ou seja, chega tudo no mesmo tempo. Esta é mais uma razão para que seja planejado o recebimento de materiais, por intermédio destes procedimentos, o almoxarifado pode na medida do possível antecipar as requisições junto aos setores da organização e disponibilizar maior parcela de pessoal para realizar as inspeções de recebimento.</p>
+
+                            <!-- SubSubTitulo -->
+                            <p class="SubSubTitulo">Ato De Recebimento</p>
+                            <hr>
+
+                            <p>Recebimento de materiais é um ponto crítico de controle por ser a atividade intermediária entre a compra, pagamento ou aceitação junto ao fornecedor, exigindo assim um alto nível de responsabilidade na conferência dos materiais destinados à organização de forma a não haver descontinuidade nas operações por problemas de ressuprimento.</p>
+
+                            <p>É no recebimento que a responsabilidade pela guarda e conservação do material é transferida do fornecedor à organização recebedora. O recebimento pode ser subdividido em duas etapas: provisório e definitivo.</p>
+
+                            <ol type="a)">
+                                <li class="wow fadeInLeft" data-wow-delay="0.3s"> <strong>Recebimento Provisório:</strong> o material adquirido é entregue à organização no local definido, não implicando necessariamente em aceitação. Nesse momento serão realizados procedimentos de conferência para aceitar ou não a carga.</li>
+                                <li class="wow fadeInLeft" data-wow-delay="0.6s"> <strong>Recebimento Definitivo:</strong> ato por meio do qual se declara, na documentação fiscal, que o material recebido está de acordo com as especificações do Pedido de Fornecimento.</li>
+                            </ol>
+
+                            <p>O objetivo de se realizar o recebimento de materiais da forma sistematizada é assegurar que o material entregue esteja em conformidade com as especificações constantes no contrato e/ou na Ordem de Compra ou documento equivalente.</p>
+
+                            <p>Essa preocupação visa aumentar o controle e a confiabilidade em relação aos fornecedores, além de evitar retrabalho desperdícios e ineficiência no almoxarifado.</p>
+
+                            <p>O recebimento de materiais não consiste somente no ato de descarregá-los e armazená-los em algum lugar onde exista um espaço livre, para posterior utilização. As atividades de recebimento envolvem desde a recepção do material na entrega pelo fornecedor até a entrada nos estoques. É de extrema importância que seja realizado o procedimento de conferência antes de proceder ao recebimento definitivo.</p>
+
+                            <p>Alguns critérios devem ser verificados para o recebimento dos materiais adquiridos.</p>
+
+                            <p>Para aquisições com valores superiores a R$ 80.000,00, o recebimento não poderá ser feito pela equipe do almoxarifado. Nesse caso, o recebimento deve ser realizado por uma comissão com, no mínimo, três membros. Essa determinação está prevista na Lei Federal nº. 8.666, de 21 de junho de 1993.</p>
+
+                            <p>Nesse caso, o almoxarifado receberá provisoriamente os materiais, para que a comissão designada realize o exame qualitativo conforme especificações contratadas. Após a verificação pela comissão responsável e respectiva aceitação, o almoxarifado poderá dar entrada nos materiais recebidos tanto fisicamente quanto no Sistema de Gestão de Almoxarifado.</p>
+
+                            <p>Quando os materiais adquiridos dependem apenas da conferência e da validação da nota fiscal em relação ao Pedido de fornecimento, poderão ser recebidos e aceitos pelo almoxarife.</p>
+
+                            <p>As atribuições básicas durante o recebimento de materiais são:</p>
+
+                            <!-- Titulo Figura -->
+                            <div class="text-center">
+                                <a href="imagens/Figura01.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
+                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                </a>
+                                <p class="FonteFigura"><strong>Figura XX: </strong>Nome da Figura Aqui</p>
+                            </div>
+
+                            <!-- Imagem 01 - MODAL -->
+                            <div class="modal fade text-center" id="Imagem01" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            <img class="img-fluid" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                        </div>
+                                        <div class="modal-footer text-center">
+                                            <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- Figura 01 - End -->
+
+                            <p><strong class="CorVerdeClaroEstado"><i class="fa fa-arrow-right"></i> Recepcionar os veículos de transportadores;</strong></p>
+
+                            <p>A recepção dos veículos transportadores representa o início do processo de recebimento que tem como objetivos:</p>
+
+                            <ul class="none Texto">
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Controlar a entrada dos veículos transportadores nas dependências da organização;</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Efetuar a triagem da documentação suporte para o recebimento;</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Constatar se o fornecimento, objeto da Nota Fiscal em análise, foi programado na Agenda de Recebimento e se está dentro do prazo de entrega contratual;</li>
+                                <li class="wow fadeInDown" data-wow-delay="1.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Constatar se o número do Pedido de Fornecimento consta na Nota Fiscal;</li>
+                                <li class="wow fadeInDown" data-wow-delay="1.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Atualizar a Agenda de Recebimento com as informações referentes aos descarregamentos autorizados.</li>
+                            </ul>
+
+                            <p>O setor de Portaria que geralmente efetua a recepção dos veículos de transportadores controla a entrada e saída dos veículos nas dependências da organização, nesse momento somente estão autorizados a entrar os veículos dos transportadores que constam na Agenda de Recebimento. As Ordens de Compra que não constam na agenda devem ser inicialmente recusadas, transcrevendo-se os motivos no verso da Nota Fiscal. Nesses casos somente o responsável pelo almoxarifado dependendo da classificação do material pode autorizar a entrada do veículo. É importante que o almoxarifado esteja sempre atualizando a Agenda de Recebimento conforme as chegadas de Ordens de Compra, e se possível por intermédio de recurso informatizado dependendo da intensidade de recebimento o apoio da informática facilita a operação e aumenta a produtividade.</p>
+
+
+                            <p><strong class="CorVerdeClaroEstado"><i class="fa fa-arrow-right"></i> Proceder a conferência visual</strong>, verificando as condições da embalagem quanto a possíveis avarias na carga transportada e, se for o caso, apontando as ressalvas nos respectivos documentos;</p>
+
+                            <p>Também no momento da recepção dos veículos dos transportadores, o setor de Portaria executa a “conferência visual” com o objetivo de identificar avarias na carga que está sendo entregue, o documento que serve para suporte às operações de análise de avarias e conferência de volumes é o "Conhecimento de Transporte Rodoviário de Carga", que é emitido quando do recebimento da mercadoria a ser transportada. Geralmente a carga transportada tem cobertura de seguro, no entanto, é importante que ao identificar avarias o setor de Portaria, entre em contato com o Setor de Compras para verificar a existência de seguro e obter a autorização para a liberação do veículo para descarregamento.</p>
+
+                            <p>As divergências e irregularidades insanáveis constatadas em relação às condições de contrato devem motivar a recusa do recebimento, anotando-se no verso da Nota Fiscal as circunstâncias que motivaram a recusa, bem como nos documentos do transportador. O exame para constatação das avarias é feito através da análise da disposição das cargas, da observação das embalagens, quanto a evidências de quebras, umidade, dentre outros danos.</p>
+
+                            <p>Os materiais que passaram por essa primeira etapa devem ser encaminhados ao Almoxarifado. Para efeito de descarga do material no Almoxarifado, a recepção é voltada apenas para a conferência de volumes, confrontando-se a Nota Fiscal com os respectivos registros na Agenda de Recebimento.</p>
+
+                            <p><strong class="CorVerdeClaroEstado"><i class="fa fa-arrow-right"></i> c) Proceder a conferência quantitativa e qualitativa dos materiais recebidos;</strong></p>
+
+                            <ol class="none Texto">
+                                <li class="wow fadeInDown" data-wow-delay="0.3s">c.1) Conferência quantitativa: verificação se a quantidade declarada pelo fornecedor na nota fiscal corresponde efetivamente à quantidade fisicamente recebida, podendo ser realizada de duas formas a saber:</li>
+
+                                <br>
+                                <ul class="none Texto">
+                                    <li class="wow fadeInDown" data-wow-delay="0.3s"> <strong><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Volume total da entrega:</strong> quando a carga é averiguada em sua integralidade, contabilizando-se todos os itens que foram entregues. Pode ser realizada de duas maneiras:</li>
+
+                                    <br>
+                                    <ol type="a">
+                                        <li class="wow fadeInDown" data-wow-delay="0.3s">O conferente verifica a nota fiscal e, sabendo dos quantitativos dos materiais, faz a contagem da carga para apurar possíveis desvios;</li>
+                                        <li class="wow fadeInDown" data-wow-delay="0.3s">O conferente faz a contagem da carga e depois compara com os quantitativos da nota fiscal identificando possíveis desvios. Essa técnica é conhecida como “contagem cega”.</li>
+                                    </ol>
+
+                                    <br>
+                                    <p>Sendo ou não a “contagem cega”, dependendo da natureza dos materiais envolvidos, estes podem ser contados utilizando-se também outros métodos, tais como:</p>
+
+                                    <li class="wow fadeInDown" data-wow-delay="0.3s"> <strong><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Manual:</strong> para casos de pequenas quantidades.</li>
+                                    <li class="wow fadeInDown" data-wow-delay="0.3s"> <strong><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Por meio de cálculo:</strong> para os casos que envolvem embalagens padronizadas com grandes quantidades.</li>
+                                    <li class="wow fadeInDown" data-wow-delay="0.3s"> <strong><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Por meio de balanças contadoras:</strong> para casos que envolvem grande quantidade de pequenas peças, como parafusos, porcas ou arruelas.</li>
+                                    <li class="wow fadeInDown" data-wow-delay="0.3s"> <strong><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Medição:</strong> em geral, as medições são efetuadas por meio de trenas.</li>
+                                    <li class="wow fadeInDown" data-wow-delay="0.3s"> <strong><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Por amostragem da carga:</strong> do quantitativo declarado na nota fiscal é definido um percentual de cada item que será objeto de verificação para apuração de possíveis desvios.</li>
+                                </ul>
+
+                                <br>
+                                <p>A escolha do método para a conferência quantitativa, seja pelo total da carga ou por amostragem, será decisão do responsável pelo almoxarifado, no entanto sempre deverá estar especificado na Nota Fiscal do recebimento o método pelo qual foi efetuada a conferência.</p>
+
+                                <li class="wow fadeInDown" data-wow-delay="0.3s">c.2) Conferência qualitativa: é a inspeção técnica de qualidade do material por meio da confrontação das condições contratadas no Pedido de Fornecimento com as consignadas na Nota Fiscal pelo fornecedor. Essa análise visa garantir o recebimento adequado do material contratado por meio do exame de suas características dimensionais, específicas e restrições de especificação. O objetivo é garantir a adequação do material ao fim que se destina. São utilizados no processo de inspeção:</li>
+
+                                <br>
+                                <ul class="none Texto">
+                                    <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> A especificação de compra do material e alternativas aprovadas; desenhos e catálogos técnicos; dentre outros.</li>
+                                    <li class="wow fadeInDown" data-wow-delay="0.4s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> A análise visual que tem por finalidade verificar o acabamento do material, possíveis defeitos, danos à pintura, etc.</li>
+                                    <li class="wow fadeInDown" data-wow-delay="0.5s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> A análise dimensional que tem por objetivo verificar as dimensões dos materiais, tais como largura, comprimento, altura, espessura, diâmetro.</li>
+                                    <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Os ensaios específicos para materiais mecânicos e elétricos comprovam a qualidade, a resistência mecânica, o balanceamento e o desempenho de materiais ou equipamentos.</li>
+                                </ul>
+                            </ol>
+
+                            <p>A depender da quantidade, a inspeção pode ser total ou por amostragem, utilizando-se de conceitos estatísticos.</p>
+
+                            <p><strong class="CorVerdeClaroEstado"><i class="fa fa-arrow-right"></i> d) Decidir pela recusa, aceite ou devolução, conforme o caso;</strong></p>
+
+                            <p>Diariamente muitas decisões são tomadas dentro de uma organização, seja pelos seus administradores, seja por seus funcionários. Decisões essas que vão desde o mais trivial até escolhas que poderão afetar todo o andamento da operação.</p>
+
+                            <p>As decisões são tomadas por pessoas que são afetadas pelo meio onde vivem, por suas percepções, experiências e até mesmo por suas crenças, o que torna o processo em si subjetivo, pois não existe a “decisão perfeita”, o que existe é a busca pela melhor alternativa. Para diminuir a subjetividade das decisões, alguns gestores dividem o processo decisório em cinco etapas:</p>
+
+                            <ol class="none Texto">
+                                <li class="wow fadeInDown" data-wow-delay="0.3s">d.1) 1ª Etapa - Reconhecimento: Reconhecer um problema, essa etapa é crucial, pois se não for bem feita todo o trabalho da equipe de recebimento será desperdiçado, dimensionar as consequências da aceitação ou não da irregularidade no fornecimento do material identificada durante as conferências é a parte mais difícil da decisão.</li>
+                            </ol>
+
+                            <p>É recomendável que os tipos de irregularidades sejam identificados é atribuído peso para facilitar a decisão, como exemplificado na tabela abaixo:</p>
+
+                            <table class="table table-hover text-center" style="border-color: #44833d">
+                                <thead style="background: #44833d" class="text-white">
+                                    <tr>
+                                        <td>ITEM</td>
+                                        <td>IRREGULARIDADE</td>
+                                        <td>PESO</td>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr class="wow fadeInLeft">
+                                        <td>1</td>
+                                        <td>Quantidade especificada na Nota Fiscal é superior à quantidade conferida fisicamente.</td>
+                                        <td>10</td>
+                                    </tr>
+                                    <tr class="wow fadeInRight" data-wow-delay="0.9s">
+                                        <td>2</td>
+                                        <td>Nota Fiscal rasurada ou com impressão imprecisa no tocante a quantidade, valores ou especificação do material.</td>
+                                        <td>10</td>
+                                    </tr>
+                                    <tr class="wow fadeInLeft">
+                                        <td>3</td>
+                                        <td>Material desacompanhado de Nota Fiscal ou de Documento Auxiliar da Nota Fiscal Eletrônica – DANFE.</td>
+                                        <td>10</td>
+                                    </tr>
+                                    <tr class="wow fadeInRight" data-wow-delay="0.9s">
+                                        <td>4</td>
+                                        <td>Embalagens violadas ou com evidências de quebra, umidade ou outro tipo de dano.</td>
+                                        <td>10</td>
+                                    </tr>
+                                    <tr class="wow fadeInLeft">
+                                        <td>5</td>
+                                        <td>Material com validade próxima à data de recebimento ou com validade vencida.</td>
+                                        <td>10</td>
+                                    </tr>
+                                    <tr class="wow fadeInRight" data-wow-delay="0.9s">
+                                        <td>6</td>
+                                        <td>Material especificado na Nota Fiscal está em desacordo com a especificação do Pedido de Fornecimento.</td>
+                                        <td>8</td>
+                                    </tr>
+                                    <tr class="wow fadeInLeft">
+                                        <td>7</td>
+                                        <td>Quantidade especificada na Nota Fiscal inferior à quantidade solicitada no Pedido de Fornecimento.</td>
+                                        <td>8</td>
+                                    </tr>
+                                    <tr class="wow fadeInRight" data-wow-delay="0.9s">
+                                        <td>8</td>
+                                        <td>Valor unitário do material é superior ao valor unitário especificado no Pedido de Fornecimento.</td>
+                                        <td>8</td>
+                                    </tr>
+                                    <tr class="wow fadeInLeft">
+                                        <td>9</td>
+                                        <td>O prazo de entrega do Pedido de Fornecimento está vencido.</td>
+                                        <td>5</td>
+                                    </tr>
+                                    <tr class="wow fadeInRight" data-wow-delay="0.9s">
+                                        <td>10</td>
+                                        <td>A condição de pagamento da Nota Fiscal está em desacordo com a especificada no Pedido de Fornecimento.</td>
+                                        <td>5</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                            <br>
+                            <ol class="none Texto">
+                                <br>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s">d.2) <strong>2ª Etapa</strong> - Elaboração: Elaborar as alternativas de ação, toda e qualquer decisão é necessário elaborar alternativas, pois se elas não existem, não há decisão a ser tomada. No caso de recebimento de material serão três alternativas a serem elaboradas, a saber:</li>
+
+                                <br>
+                                <ul class="none Texto">
+                                    <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-cube CorVerdeClaroEstado"></i> <strong>Aceite do Recebimento:</strong> Quando não foram identificadas irregularidades nas conferências de recebimento ou as ocorrências não justificarem a recusa ou devolução do Recebimento.</li>
+                                    <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-cube CorVerdeClaroEstado"></i> <strong>Recusa:</strong> Quando as irregularidades identificadas, nas conferências de recebimento ocasionar possibilidade de prejuízo financeiro, comprometimento do resultado final das atividades que dependem do uso do material ou possibilitar acidentes de trabalho, deterioração do material, risco a saúde entre outras questões.</li>
+                                    <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-cube CorVerdeClaroEstado"></i> <strong>Devolução:</strong> Quando a irregularidade identificada refere-se ao quantitativo maior que o solicitado no Pedido de Fornecimento, ou quando se justificar uma recusa parcial, ou seja, somente de parte do material envolvido no recebimento será aceito devido a sua classificação como material crítico ou estoque extremamente insuficiente para atender ao consumo. O restante do material será recebido com ressalvas em relação ao nível de atendimento do fornecedor.</li>
+                                </ul>
+
+                                <br>
+                                <br>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s">d.3) <strong>3ª Etapa</strong> – Planejamento: Avaliar as vantagens e desvantagens de cada alternativa elaborada, nessa etapa é importante ter senso crítico para avaliar quais serão as possíveis consequências da escolha de qualquer uma das alternativas (aceitar, recusar ou devolver o recebimento) e se necessário planejar cursos de ação que minimizem os impactos previstos decorrentes da opção escolhida.</li>
+
+                                <br>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s">d.4) <strong>4ª Etapa</strong> – Decisão e implementação: Selecionar a alternativa escolhida e após efetuar a escolha deve-se anunciá-la com confiança e de forma incisiva, pois caso contrário poderá despertar um sentimento de insegurança naqueles que serão afetados com a decisão. Outra questão importante é implementar a decisão imediatamente após ter sido efetuada a escolha, um erro comum em muitos tomadores de decisão é postergar ou demorar na implementação da alternativa escolhida principalmente se esta trazer descontentamentos. Postergar decisões pode gerar pendências que acarretarão problemas irremediáveis.</li>
+
+                                <br>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s">d.5) <strong>5ª Etapa</strong> – Controle: Avaliar os resultados da decisão, nessa etapa é importante documentar ao máximo a decisão que foi implementada de forma que possa ser facilmente rastreada, caso seus efeitos demorem a surgir ou não forem os efeitos esperados. As anotações efetuadas na Nota Fiscal ou no Conhecimento de Transporte Rodoviário de Carga e Pedido de Fornecimento, acerca da decisão de aceitar, recusar ou devolver um recebimento, deverão expressar claramente os motivos, datas e ter os nomes e vistos dos conferentes envolvidos assim como os métodos de conferência aplicados. Para consolidar essas informações o almoxarife deve elaborar o Relatório Técnico de Inspeção de Recebimento, especificando as ações decorrentes do aceite ou não do recebimento e anexando ao mesmo a documentação anteriormente citada envolvida no recebimento do material.</li>
+                            </ol>
+
+                            <p>Mesmo procurando racionalizar a subjetividade da tomada de decisão por meio das cinco etapas apresentadas, entendemos que é impossível encontrar num processo de decisão a melhor alternativa, na prática o que se busca é a alternativa que, mesmo não sendo a melhor, leve para o alcance do objetivo da decisão. É importante também esclarecermos que quem decide está suscetível ao erro e nesses casos é perfeitamente compreensível admiti-los muitas vezes sai mais barato admitir o erro que manter a decisão equivocada. O maior erro é não decidir.</p>
+
+                            <p><strong class="CorVerdeClaroEstado"><i class="fa fa-arrow-right"></i> e) Regularização do recebimento:</strong></p>
+
+                            <p>A regularização é caracterizada pela formalização do processo de recebimento, quando são confirmadas as conferências: visual, qualitativa e quantitativa, respectivamente, por meio do Relatório Técnico de Inspeção de Recebimento dando aceite ou não ao recebimento.</p>
+
+                            <p>O citado relatório atesta a confrontação das quantidades conferidas e faturadas, dando origem a uma das seguintes situações:</p>
+
+                            <ul class="none Texto">
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Liberação de pagamento ao fornecedor;</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Liberação parcial de pagamento ao fornecedor;</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Devolução de material ao fornecedor;</li>
+                                <li class="wow fadeInDown" data-wow-delay="1.3s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Recusa do recebimento;</li>
+                                <li class="wow fadeInDown" data-wow-delay="1.6s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Reclamação de falta do fornecedor junto ao órgão/unidade gestora de compras.</li>
+                            </ul>
+
+                            <p>Os procedimentos de regularização, visando à confrontação dos dados, objetivando recontagem e aceite ou não de quantidades remetidas em excesso pelo fornecedor, envolvem os seguintes documentos:</p>
+
+                            <ul class="none Texto">
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Nota Fiscal;</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Conhecimento de transporte rodoviário de carga;</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Documento de contagem efetuada;</li>
+                                <li class="wow fadeInDown" data-wow-delay="1.3s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Relatório técnico de inspeção de recebimento;</li>
+                                <li class="wow fadeInDown" data-wow-delay="1.6s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Especificação de compra;</li>
+                                <li class="wow fadeInDown" data-wow-delay="1.9s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Catálogos técnicos;</li>
+                                <li class="wow fadeInDown" data-wow-delay="2.3s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Desenhos.</li>
+                            </ul>
+
+                            <p>O material em excesso ou com irregularidade identificada será devolvido ao fornecedor, dentro de um prazo estabelecido pela direção da organização a contar da data do recebimento, acompanhado da Nota Fiscal de Devolução, emitida pela organização compradora.</p>
+
+                            <p>O material isento de irregularidade dará entrada no Sistema de Controle de Estoque e após esse registro acondicionado nos locais destinados a armazenagem.</p>
+
+                            <p>Na tabela a seguir é apresentado um resumo das fases que compõem o processo de recebimento de materiais.</p>
+
+                            <table class="table table-bordered">
+                                <thead style="background: #c09703;" class="text-white text-center">
+                                    <tr>
+                                        <td>FASE</td>
+                                        <td>DESCRIÇÃO</td>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>1ª fase - Cronograma de ressuprimento:</td>
+                                        <td>É a programação dos pedidos de fornecimento confirmados para recebimento dentro de determinado período, a partir dessa informação o almoxarifado prepara a agenda de recebimento e vai acompanhando junto aos transportadores a expectativa de recebimento da carga, programando pessoal e área de recebimento.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>2ª fase - Acompanhamento e rastreamento dos ressuprimentos:</td>
+                                        <td>É a compatibilização da capacidade de descarregamento do armazém em termos de área, pessoal e equipamentos com o cronograma de ressuprimento, ou seja, à medida que o almoxarifado acompanha junto ao transportador a chegada da carga vai mobilizando o pessoal e organizando espaço para efetuar o recebimento, além de preparar a Relação de Transportadores Autorizados para Descarregamento.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>3ª fase - Recepção:</td>
+                                        <td>
+                                            É a recepção dos veículos dos transportadores, a triagem da documentação suporte do recebimento, encaminhamento para descarga. A recepção será efetuada na portaria da organização onde haverá conferência primária da documentação que objetiva identificar, constatar e providenciar conforme o caso:
+
+
+                                            <ul class="none Texto"><br>
+                                                <br>
+                                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Se o abastecimento ou compra objeto da Nota Fiscal em análise está autorizado na Relação de Transportadores Autorizados para Descarregamento.</li>
+
+                                                <br>
+                                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Se o abastecimento ou compra devidamente autorizada tem programação prevista estando dentro do prazo de entrega contratual. Nessa ocasião é efetuada uma consulta ao almoxarifado para liberar ou não o transportador para descarregamento.</li>
+
+                                                <br>
+                                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Se o número do documento de compra consta na Nota Fiscal.</li>
+
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>4ª fase - Liberação do transportador:</td>
+                                        <td>Para os transportadores liberados para descarregamento e assinada liberação no verso da Nota Fiscal e Conhecimento de Frete.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>5ª fase – Descarregamento:</td>
+                                        <td>Normalmente no leiaute do armazém há espaço destinado ao Recebimento, o qual contempla área para descarga, se possível, com docas. Para a realização da descarga do veículo do transportador, dependendo da natureza do material envolvido, é necessária a utilização de equipamentos, dentre os quais se destacam paleteiras, talhas, empilhadeiras e pontes rolantes, além do próprio esforço físico humano, sendo necessário envolver o fator segurança, não só com relação ao material em si como também e principalmente, ao pessoal.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>6ª fase – Recebimento:</td>
+                                        <td>No recebimento são efetuadas as seguintes conferências: visual, quantitativa e qualitativa:
+
+                                            <ul class="none Texto"><br>
+                                                <br><li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Conferência Visual:</strong> Exame para constatação de avarias (defeitos), análise da disposição das cargas, observação das embalagens quanto a evidências de quebras, umidade, amassados, dentre outros.</li>
+                                                <br><li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Conferência Quantitativa:</strong> Verificação se a quantidade declarada pelo fornecedor na Nota Fiscal corresponde à efetivamente recebida. È importante que o conferente desconheça a quantidade faturada na Nota fiscal, ou seja, o conferente aponta a quantidade contada em um formulário de Conferência e este formulário é posteriormente confrontado com a Nota Fiscal. Dependendo da natureza do material a conferência poderá ser feita por contagem, pesagem, medição ou cálculo.</li>
+                                                <br><li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Conferência Qualitativa:</strong> Verificação efetuada por meio da confrontação das condições contratadas no Pedido de Fornecimento com as consignadas na Nota Fiscal pelo Fornecedor e visa garantir o recebimento adequado do material pelo exame de; características dimensionais, especificações e restrições de especificação.</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>7ª fase – Regularização:</td>
+                                        <td>É a decisão pela aceitação total, parcial ou recusa total da carga, devendo nesses casos ser registrada a descrição dos motivos no verso da Nota Fiscal e Conhecimento de Frete. As reclamações e/ou devoluções, qualquer que seja o motivo deverão ser devidamente esclarecidas ao Fornecedor envolvido por meio de Notificação com entrega protocolada, além de informado ao departamento de compras para registro no controle de fornecedores. Nos casos de aceitação deverá ser aposto o visto de aceitação na Nota Fiscal e Conhecimento de Frete e encaminhado ao departamento de finanças para a liberação do pagamento.</td>
+                                    </tr>
+                                    <tr>
+                                        <td>8ª fase - Liberação para armazenagem:</td>
+                                        <td>Em resumo o material deverá ser liberado e encaminhado para armazenagem quando serão efetuados os registros escriturais de entrada no estoque. Somente após a liberação poderão ser efetuadas as requisições de material.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+
 
 
 
