@@ -751,26 +751,26 @@ include('layout/header.php');
                                 <tbody>
                                     <tr>
                                         <td>Usos</td>
-                                        <td><br>• Transporte de carga entre departamentos
-                                            <br>• Movimentação de Gruós de motores da fábrica para a linha de montagem.
-                                            <br>• Transporte de barras de ferro e outras cargas compridas.
-                                            <br>• Transporte de grandes volumes de produção para a expedição.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Transporte de carga entre departamentos</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Movimentação de Gruós de motores da fábrica para a linha de montagem.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Transporte de barras de ferro e outras cargas compridas.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Transporte de grandes volumes de produção para a expedição.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Vantagens</td>
-                                        <td><br>• Baixo investimento
-                                            <br>• Baixo custo operacional
-                                            <br>• Necessidade de poucos veículos de tração.
-                                            <br>• Flexibilidade
-                                            <br>• Não exigem pisos especiais, embora o rendimento diminua de até 50% em solos acidentados.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixo investimento</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixo custo operacional</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Necessidade de poucos veículos de tração.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Flexibilidade</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não exigem pisos especiais, embora o rendimento diminua de até 50% em solos acidentados.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Desvantagens</td>
-                                        <td><br>• Exigem mão de obra adicional e equipamentos extras de carga e descarga.
-                                            <br>• Se o número de paradas é muito grande, a velocidade de operação torna-se reduzida.
-                                            <br>• Exige operador – tipo de controle sem operador ainda mão é fabricado no Brasil.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exigem mão de obra adicional e equipamentos extras de carga e descarga.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Se o número de paradas é muito grande, a velocidade de operação torna-se reduzida.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige operador – tipo de controle sem operador ainda mão é fabricado no Brasil.</span>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -792,27 +792,27 @@ include('layout/header.php');
                                 <tbody>
                                     <tr>
                                         <td>Usos</td>
-                                        <td><br>• Formação de lotes para despacho.
-                                            <br>• Movimentação de cargas a curtas distâncias.
-                                            <br>• Auxiliar de operações mecanizadas.
-                                            <br>• Trabalhos de conservação e reparação.
-                                            <br>• Movimentação de matérias-primas e semiacabados em linhas de produção e montagem.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Formação de lotes para despacho.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Movimentação de cargas a curtas distâncias.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Auxiliar de operações mecanizadas.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Trabalhos de conservação e reparação.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Movimentação de matérias-primas e semiacabados em linhas de produção e montagem.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Vantagens</td>
-                                        <td><br>• Baixo custo.
-                                            <br>• Versatilidade
-                                            <br>• Silenciosos.
-                                            <br>• Baixíssimo custo de manutenção.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixo custo.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Versatilidade</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Silenciosos.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixíssimo custo de manutenção.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Desvantagens</td>
-                                        <td><br>• Capacidade de carga e raio de ação limitados.
-                                            <br>• Baixa velocidade de operação.
-                                            <br>• Exige mais mão de obre que os equipamentos mecanizados.
-                                            <br>• Baixa produtividade
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Capacidade de carga e raio de ação limitados.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixa velocidade de operação.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige mais mão de obre que os equipamentos mecanizados.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixa produtividade</span>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -836,21 +836,21 @@ include('layout/header.php');
                                 <tbody>
                                     <tr>
                                         <td class="colunaverde">Usos</td>
-                                        <td>• No transporte entre andares diferentes.
-                                            <br>• Carga e descarga entre pavimento térreo e subsolo.
-                                            <br>• Vencer desníveis entre a rua e o piso do armazém.
+                                        <td><span class="wow fadeInDown" data-wow-delay="0.3s">• No transporte entre andares diferentes.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Carga e descarga entre pavimento térreo e subsolo.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Vencer desníveis entre a rua e o piso do armazém.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Vantagens</td>
-                                        <td>• Ocupam menos espaço que outros equipamentos.
-                                            <br>• São relativamente baratos.
+                                        <td><span class="wow fadeInDown" data-wow-delay="0.3s">• Ocupam menos espaço que outros equipamentos.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• São relativamente baratos.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Desvantagens</td>
-                                        <td>• Exigem cuidados na operação para evitar acidentes.
-                                            <br>• Menos velozes que outros equipamentos.
+                                        <td><span class="wow fadeInDown" data-wow-delay="0.3s">• Exigem cuidados na operação para evitar acidentes.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Menos velozes que outros equipamentos.</span>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -867,22 +867,22 @@ include('layout/header.php');
                                 <tbody>
                                     <tr>
                                         <td>Vantagens</td>
-                                        <td><br>• Ocupam pouco espaço.
-                                            <br>• Permite livre escolha de itinerário.
-                                            <br>• Possibilita melhor aproveitamento do espaço vertical – utilização de quatro e até cinco planos de carga.
-                                            <br>• Reduz a largura dos corredores.
-                                            <br>• Dá maior segurança ao operário e à carga.
-                                            <br>• Diminui a mão de obra.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Ocupam pouco espaço.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Permite livre escolha de itinerário.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Possibilita melhor aproveitamento do espaço vertical – utilização de quatro e até cinco planos de carga.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Reduz a largura dos corredores.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Dá maior segurança ao operário e à carga.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Diminui a mão de obra.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Desvantagens</td>
-                                        <td><br>• Exige paletização das cargas pequenas.
-                                            <br>• Retorno quase sempre vazio.
-                                            <br>• O operador deve ser especializado.
-                                            <br>• Fluxo de material intermitente.
-                                            <br>• Transporte mais lento que por equipamentos especializados.
-                                            <br>• A capacidade diminui com o aumento da altura de elevação.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige paletização das cargas pequenas.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Retorno quase sempre vazio.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• O operador deve ser especializado.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Fluxo de material intermitente.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Transporte mais lento que por equipamentos especializados.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• A capacidade diminui com o aumento da altura de elevação.</span>
 
                                         </td>
                                     </tr>
@@ -896,40 +896,40 @@ include('layout/header.php');
                                     <tr>
                                         <td>Usos</td>
                                         <td>De raio de ação limitado:
-                                            <br>• Na estocagem de cargas paletizadas eliminam corredores transversais e permitem corredores de acesso mais estreito (1,70m).
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na estocagem de cargas paletizadas eliminam corredores transversais e permitem corredores de acesso mais estreito (1,70m).</span>
                                             De raio de ação longo:
-                                            <br>• No escoamento ou suprimento de linhas de montagem, onde proporcionam redução de área de até 50% em relação às convencionais.
-                                            <br>• Em terrenos acidentados ou .pisos irregulares.
-                                            <br>• Em serrarias podem fazer quase toda a movimentação interna de materiais desde a recepção até expedição.
-                                            <br>• Na laminação, além de serem úteis na movimentação de chapas, servem também para paletizar lingotes de mais de 15 t e transportar peças quentes (acima de 700º c).
-                                            <br>• Na trefilação, movimentam rolos de arame e barras compridas, auxiliam a fabricação de telas e realizam operações de cargas e descargas.
-                                            <br>• Nas indústrias de pré-moldados, removem com suavidade e firmeza peças ainda não curadas.
-                                            <br>• Na construção civil, movimentam e descarregam blocos pré-moldados, madeira, além de armar e desarmar andaimes.
-                                            <br>• Em obras públicas, ajudam a assentar tubos compridos, mesmo se acondicionados em armações unitárias. Líquidos que não podem ser muito agitados são transportados nas plataformas da empilhadeira graças à sua boa estabilidade.
-                                            <br>• Na indústria química, transportam produtos perigosos, com baixo risco.
-                                            <br>• Na indústria automobilística, manuseiam chassi, tanto para descarga de carretas, como no suprimento de linhas de montagem.
-                                            <br>• Em portos, manobram pesados contenedores de até 45t.
-                                            <br>• No transporte urbano, podem ser usadas para entregas de até 10 km de distância.
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• No escoamento ou suprimento de linhas de montagem, onde proporcionam redução de área de até 50% em relação às convencionais.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em terrenos acidentados ou .pisos irregulares.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em serrarias podem fazer quase toda a movimentação interna de materiais desde a recepção até expedição.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na laminação, além de serem úteis na movimentação de chapas, servem também para paletizar lingotes de mais de 15 t e transportar peças quentes (acima de 700º c).</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na trefilação, movimentam rolos de arame e barras compridas, auxiliam a fabricação de telas e realizam operações de cargas e descargas.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Nas indústrias de pré-moldados, removem com suavidade e firmeza peças ainda não curadas.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na construção civil, movimentam e descarregam blocos pré-moldados, madeira, além de armar e desarmar andaimes.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em obras públicas, ajudam a assentar tubos compridos, mesmo se acondicionados em armações unitárias. Líquidos que não podem ser muito agitados são transportados nas plataformas da empilhadeira graças à sua boa estabilidade.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na indústria química, transportam produtos perigosos, com baixo risco.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na indústria automobilística, manuseiam chassi, tanto para descarga de carretas, como no suprimento de linhas de montagem.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em portos, manobram pesados contenedores de até 45t.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• No transporte urbano, podem ser usadas para entregas de até 10 km de distância.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Vantagens</td>
                                         <td> De raio de ação limitado
-                                            <br>• Grande altura de empilhamento (até 12 m).
-                                            <br>• Dispensam equipamentos auxiliares.
-                                            <br>• Melhor aproveitamento de espaço, uma vez que operam em corredores estreitos – apenas alguns centímetros a mais que a largura do palete.
-                                            <br>• Tem mais estabilidade que as empilhadeiras convencionais.
-                                            <br>• Menor velocidade de elevação que as empilhadeiras convencionais.
-                                            <br>• Não ultrapassam pilhas ou obstáculos.
-                                            <br>• Preço inicial maior que o das empilhadeira convencionais, embora os custos de manutenção sejam equivalentes.
-                                            <br>• Não são fabricadas no Brasil.
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Grande altura de empilhamento (até 12 m).</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Dispensam equipamentos auxiliares.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Melhor aproveitamento de espaço, uma vez que operam em corredores estreitos – apenas alguns centímetros a mais que a largura do palete.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Tem mais estabilidade que as empilhadeiras convencionais.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Menor velocidade de elevação que as empilhadeiras convencionais.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não ultrapassam pilhas ou obstáculos.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Preço inicial maior que o das empilhadeira convencionais, embora os custos de manutenção sejam equivalentes.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não são fabricadas no Brasil.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Desvantagens</td>
-                                        <td><br>• Exigem mão de obra adicional e equipamentos extras de carga e descarga.
-                                            <br><br>• Se o número de paradas é muito grande, a velocidade de operação torna-se reduzida.
-                                            <br><br>• Exige operador – tipo de controle sem operador ainda mão é fabricado no Brasil.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exigem mão de obra adicional e equipamentos extras de carga e descarga.</span>
+                                            <br><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Se o número de paradas é muito grande, a velocidade de operação torna-se reduzida.</span>
+                                            <br><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige operador – tipo de controle sem operador ainda mão é fabricado no Brasil.</span>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -949,24 +949,24 @@ include('layout/header.php');
                                 <tbody>
                                     <tr>
                                         <td>Usos</td>
-                                        <td><br>• Alimentação de máquinas.
-                                            <br>• Estocagem de cargas.
-                                            <br>• Grande altura.
-                                            <br>• Carga e descarga de caminhões.
-                                            <br>• Auxiliar de empilhadeira motorizada.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Alimentação de máquinas.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Estocagem de cargas.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Grande altura.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Carga e descarga de caminhões.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Auxiliar de empilhadeira motorizada.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Vantagens</td>
-                                        <td> <br>• Baixo preço.
-                                            <br>• Não exige operador especializado.
+                                        <td> <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixo preço.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não exige operador especializado.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Desvantagens</td>
-                                        <td><br>• Raio de ação limitado.
-                                            <br>• Capacidade limitada a 1.500 kg.
-                                            <br>• Baixa velocidade de operação.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Raio de ação limitado.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Capacidade limitada a 1.500 kg.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixa velocidade de operação.</span>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -979,27 +979,27 @@ include('layout/header.php');
                                 <tbody>
                                     <tr>
                                         <td>Usos</td>
-                                        <td><br>• Em pátios de manobras ferroviárias, para carregar vagões.
-                                            <br>• Movimentação de cargas e carregamento de navios em portos.
-                                            <br>• Montagem industrial.
-                                            <br>• Construção pesada.
-                                            <br>• Terminais de levantamento em áreas restritas.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em pátios de manobras ferroviárias, para carregar vagões.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Movimentação de cargas e carregamento de navios em portos.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Montagem industrial.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Construção pesada.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Terminais de levantamento em áreas restritas.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Vantagens</td>
-                                        <td> <br>• Opera cargas não paletizadas.
-                                            <br>• A lança atinge locais de difícil acesso.
-                                            <br>• Movimenta-se em qualquer sentido.
-                                            <br>• Uso muito versátil.
-                                            <br>• Transporta cargas em locais em que o piso é obstáculo.
+                                        <td> <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Opera cargas não paletizadas.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• A lança atinge locais de difícil acesso.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Movimenta-se em qualquer sentido.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Uso muito versátil.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Transporta cargas em locais em que o piso é obstáculo.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Desvantagens</td>
-                                        <td><br>• Mais lento que os equipamentos especializados.
-                                            <br>• Não pode ser utilizado em lugares de altura limitada.
-                                            <br>• Não passa em corredores estreitos.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Mais lento que os equipamentos especializados.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não pode ser utilizado em lugares de altura limitada.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não passa em corredores estreitos.</span>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -1013,31 +1013,31 @@ include('layout/header.php');
                                 <tbody>
                                     <tr>
                                         <td>Usos</td>
-                                        <td><br>• Em usinas de força.
-                                            <br>• Oficinas mecânicas.
-                                            <br>• Armazéns.
-                                            <br>• Pátios externos.
-                                            <br>• Linhas de montagem.
-                                            <br>• Siderurgia, no carregamento de fornos, laminação e em pátios de lingoteiras.
-                                            <br>• Usinas de açúcar.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em usinas de força.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Oficinas mecânicas.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Armazéns.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Pátios externos.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Linhas de montagem.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Siderurgia, no carregamento de fornos, laminação e em pátios de lingoteiras.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Usinas de açúcar.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Vantagens</td>
-                                        <td><br>• Durabilidade elevada.
-                                            <br>• Pode movimentar cargas ultrapesadas.
-                                            <br>• Não interferem no trabalho ao nível do solo.
-                                            <br>• Modelos para operação ao nível do solo podem ser operados por pessoal não especializado.
-                                            <br>• Podem carregar e descarregar em qualquer ponto, possibilitando adequado posicionamento da carga.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Durabilidade elevada.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Pode movimentar cargas ultrapesadas.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não interferem no trabalho ao nível do solo.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Modelos para operação ao nível do solo podem ser operados por pessoal não especializado.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Podem carregar e descarregar em qualquer ponto, possibilitando adequado posicionamento da carga.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Desvantagens</td>
-                                        <td><br>• Exigem estruturas.
-                                            <br>• Quando o edifício não é especialmente construído para receber a ponte, a adaptação encarece muito o investimento.
-                                            <br>• Preço inicial relativamente alto.
-                                            <br>• Área de movimentação definida.
-                                            <br>• Requer mão de obra adicional, ao nível do solo.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exigem estruturas.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Quando o edifício não é especialmente construído para receber a ponte, a adaptação encarece muito o investimento.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Preço inicial relativamente alto.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Área de movimentação definida.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Requer mão de obra adicional, ao nível do solo.</span>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -1052,25 +1052,25 @@ include('layout/header.php');
                                 <tbody>
                                     <tr>
                                         <td>Usos</td>
-                                        <td><br>• Para alturas de empilhamento superiores a 6m.
-                                            <br>• Na estocagem de grandes volumes de materiais.
-                                            <br>• Necessidade de fluxo rápido de carga.
-                                            <br>• Em áreas de estocagem restrita.
-                                            <br>• Em pisos pouco resistentes e irregulares, que impossibilitem a utilização de empilhadeira convencional.
-                                            <br>• Quando planos de carga e descarga são diferentes, impossibilitando a utilização de ponte rolante convencional, mesmo com o auxílio de operadores para virar a mercadoria.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Para alturas de empilhamento superiores a 6m.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na estocagem de grandes volumes de materiais.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Necessidade de fluxo rápido de carga.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em áreas de estocagem restrita.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em pisos pouco resistentes e irregulares, que impossibilitem a utilização de empilhadeira convencional.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Quando planos de carga e descarga são diferentes, impossibilitando a utilização de ponte rolante convencional, mesmo com o auxílio de operadores para virar a mercadoria.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Vantagens</td>
-                                        <td> <br>• Permite elevadas alturas de empilhamento.
-                                            <br>• Elimina corredores – que chegam a absorver até 70% da área útil.
-                                            <br>• Aumenta a velocidade de operação, permitindo fluxo mais rápido da carga.
+                                        <td> <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Permite elevadas alturas de empilhamento.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Elimina corredores – que chegam a absorver até 70% da área útil.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Aumenta a velocidade de operação, permitindo fluxo mais rápido da carga.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Desvantagens</td>
-                                        <td><br>• Exige investimento maior que uma empilhadeira ou ponte rolante convencional.
-                                            <br>• Manutenção é mais cara.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige investimento maior que uma empilhadeira ou ponte rolante convencional.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Manutenção é mais cara.</span>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -1084,24 +1084,24 @@ include('layout/header.php');
                                 <tbody>
                                     <tr>
                                         <td>Usos</td>
-                                        <td><br>• Na movimentação ao ar livre de cargas pesadas, em pequenos vão e grandes comprimentos de rolamento.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na movimentação ao ar livre de cargas pesadas, em pequenos vão e grandes comprimentos de rolamento.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Vantagens</td>
                                         <td> Em relação à ponte rolante
-                                            <br>• Maior capacidade de carga.
-                                            <br>• Possibilidade de deslocamento a maiores distâncias.
-                                            <br>• Não requer estrutura.
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Maior capacidade de carga.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Possibilidade de deslocamento a maiores distâncias.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não requer estrutura.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Desvantagens</td>
                                         <td> Em relação à ponte rolante
-                                            <br>• Uso mais restrito e em vão menores.
-                                            <br>• Menos seguro.
-                                            <br>• Interfere com o tráfego no piso
-                                            <br>• Mais caro.
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Uso mais restrito e em vão menores.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Menos seguro.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Interfere com o tráfego no piso</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Mais caro.</span>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -1113,21 +1113,21 @@ include('layout/header.php');
                                 <tbody>
                                     <tr>
                                         <td>Usos</td>
-                                        <td>• Em deslocamentos verticais.
-                                            <br>• Em deslocamentos horizontais, quando adaptadas a monovias.
-                                            <br>• Em ambos os casos, na movimentação de cargas pesadas e desajeitadas.
+                                        <td><span class="wow fadeInDown" data-wow-delay="0.3s">• Em deslocamentos verticais.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em deslocamentos horizontais, quando adaptadas a monovias.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em ambos os casos, na movimentação de cargas pesadas e desajeitadas.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Vantagens</td>
-                                        <td>• Baixo .custo inicial
-                                            <br>• Facilidade de instalação.
+                                        <td><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixo .custo inicial</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Facilidade de instalação.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Desvantagens</td>
-                                        <td>• Desaconselhada para produção em série.
-                                            <br>• Exige mão de obra auxiliar.
+                                        <td><span class="wow fadeInDown" data-wow-delay="0.3s">• Desaconselhada para produção em série.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige mão de obra auxiliar.</span>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -1140,23 +1140,23 @@ include('layout/header.php');
                                 <tbody>
                                     <tr>
                                         <td>Usos</td>
-                                        <td><br>• Secções de pintura e decapagens de indústrias, principalmente automobilísticas.
-                                            <br>• Transporte de reses abatidas em frigoríficos.
-                                            <br>• Em qualquer situação que exija transporte em série, a velocidade não muito elevada.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Secções de pintura e decapagens de indústrias, principalmente automobilísticas.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Transporte de reses abatidas em frigoríficos.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em qualquer situação que exija transporte em série, a velocidade não muito elevada.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Vantagens</td>
-                                        <td><br>• Libera área do piso para fins produtivos.
-                                            <br>• Pode fazer curvas e vencer elevações com facilidade.
-                                            <br>• Permite boa sincronização nas operações de montagem.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Libera área do piso para fins produtivos.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Pode fazer curvas e vencer elevações com facilidade.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Permite boa sincronização nas operações de montagem.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Desvantagens</td>
-                                        <td><br>• Exige estruturas.
-                                            <br>• Área de operação predeterminadas e difícil de ser remanejada.
-                                            <br>• Exige mão de obra auxiliar ao nível de solo.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige estruturas.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Área de operação predeterminadas e difícil de ser remanejada.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige mão de obra auxiliar ao nível de solo.</span>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -1169,25 +1169,25 @@ include('layout/header.php');
                                 <tbody>
                                     <tr>
                                         <td>Usos</td>
-                                        <td><br>• Na preparação de lotes de expedição.
-                                            <br>• No empacotamento de produto acabado.
-                                            <br>• Em linha de montagem.
-                                            <br>• No transporte entre andares diferentes.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na preparação de lotes de expedição.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• No empacotamento de produto acabado.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em linha de montagem.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• No transporte entre andares diferentes.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Vantagens</td>
-                                        <td> <br>• Não requer acionamento mecânico, por funcionar em declive.
-                                            <br>• Ocupa pouco espaço.
-                                            <br>• Não requer operador especializado.
-                                            <br>• A estrutura de sustentação é simples e leve.
-                                            <br>• Pode fazer curvas.
+                                        <td> <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não requer acionamento mecânico, por funcionar em declive.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Ocupa pouco espaço.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não requer operador especializado.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• A estrutura de sustentação é simples e leve.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Pode fazer curvas.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Desvantagens</td>
-                                        <td><br>• Capacidade de cargas e de produção limitadas.
-                                            <br>• A carga exige orientação manual nas curvas.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Capacidade de cargas e de produção limitadas.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• A carga exige orientação manual nas curvas.</span>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -1200,26 +1200,26 @@ include('layout/header.php');
                                 <tbody>
                                     <tr>
                                         <td>Usos</td>
-                                        <td><br>• Na automatização de lotes de expedição.
-                                            <br>• No reposicionamento automático de mercadorias.
-                                            <br>• No máximo aproveitamento vertical do armazém.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na automatização de lotes de expedição.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• No reposicionamento automático de mercadorias.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• No máximo aproveitamento vertical do armazém.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Vantagens</td>
-                                        <td><br>• Intervenção mínima do operador.
-                                            <br>• Rapidez na execução.
-                                            <br>• Possível redução da área de armazenamento.
-                                            <br>• Organização e capacidade de expedição rápida.
-                                            <br>• Controle de estoques.
-                                            <br>• Possibilidade de adequar-se a condições de trabalho especiais, por exemplo: temperaturas adversas, umidade extrema.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Intervenção mínima do operador.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Rapidez na execução.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Possível redução da área de armazenamento.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Organização e capacidade de expedição rápida.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Controle de estoques.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Possibilidade de adequar-se a condições de trabalho especiais, por exemplo: temperaturas adversas, umidade extrema.</span>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td>Desvantagens</td>
-                                        <td><br>• Investimento auto.
-                                            <br>• Adaptação do armazém e capacitação de operadores.
-                                            <br>• Pouca flexibilidade e necessidade de um esquema de redundância.
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Investimento auto.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Adaptação do armazém e capacitação de operadores.</span>
+                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Pouca flexibilidade e necessidade de um esquema de redundância.</span>
                                         </td>
                                     </tr>
                                 </tbody>
