@@ -1013,7 +1013,7 @@ include('layout/header.php');
                                 <tbody>
                                     <tr>
                                         <td>Usos</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em usinas de força.</span>
+                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arow-right CorVerdeClaroEstado"></i> • Em usinas de força.</span>
                                             <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Oficinas mecânicas.</span>
                                             <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Armazéns.</span>
                                             <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Pátios externos.</span>
