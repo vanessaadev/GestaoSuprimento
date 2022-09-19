@@ -856,7 +856,8 @@ include('layout/header.php');
                                 </tbody>
                             </table>
 
-                            <br><p>d) <strong class="CorAzulEstadoEscuro"> Empilhadeiras Frontais</strong>: Quando utilizadas continuamente, apresentam indiscutíveis vantagens em relação ao trabalho braçal. Proporcionam flexibilidade operacional, reduzem à metade os custos de movimentação, possibilitam maior aproveitamento do espaço de armazenagem e melhor arrumação das cargas. A empilhadeira constitui-se basicamente de uma unidade locomotora, dotada de controles hidráulicos e acionada por motor elétrico, à gasolina, à diesel ou GLP. Sobre uma coluna ou quadro de elevação, correm garfos, que fazem a carga e descarga e suportam o peso. O equipamento move-se sobre rodas pneumáticas ou de borracha maciça. As colunas podem ter apenas um ou mais estágios – o que possibilita alturas de elevação de até 12 m – e se inclinam para a frente ou para trás, para depositar ou apanhar carga. Em vez de garfos, a empilhadeira pode dispor de aríete – para carregar pneus, por exemplo; pega cargas hidráulicas para peças de ferro; ou caçamba para minério ou metais fundidos.
+                            <br>
+                            <p>d) <strong class="CorAzulEstadoEscuro"> Empilhadeiras Frontais</strong>: Quando utilizadas continuamente, apresentam indiscutíveis vantagens em relação ao trabalho braçal. Proporcionam flexibilidade operacional, reduzem à metade os custos de movimentação, possibilitam maior aproveitamento do espaço de armazenagem e melhor arrumação das cargas. A empilhadeira constitui-se basicamente de uma unidade locomotora, dotada de controles hidráulicos e acionada por motor elétrico, à gasolina, à diesel ou GLP. Sobre uma coluna ou quadro de elevação, correm garfos, que fazem a carga e descarga e suportam o peso. O equipamento move-se sobre rodas pneumáticas ou de borracha maciça. As colunas podem ter apenas um ou mais estágios – o que possibilita alturas de elevação de até 12 m – e se inclinam para a frente ou para trás, para depositar ou apanhar carga. Em vez de garfos, a empilhadeira pode dispor de aríete – para carregar pneus, por exemplo; pega cargas hidráulicas para peças de ferro; ou caçamba para minério ou metais fundidos.
                             <p>A velocidade máxima do equipamento varia de 10km/h (elétricas) até 35 km/h (a diesel).</p>
 
                             <p>A empilhadeira elétrica é lenta e só pode operar em pisos bastante regulares. Tem, todavia, baixo custo operacional e não polui o ambiente. É indicada para ambientes fechados e que exijam higiene, como câmaras frigoríficas, indústrias químicas e alimentícias. Os modelos a GLP ou Diesel são relativamente mais caros. Mas poluem menos o ambiente e quando utilizados a plena capacidade têm custo operacional menor que as versões à gasolina.</p>
@@ -1327,48 +1328,29 @@ include('layout/header.php');
 
                             <p>Após aprovado o ajuste do inventário, o Controle de Estoque emitirá a relação autorizando os devidos ajustes.</p>
 
+                            <!-- Titulo Figura -->
+                            <div class="text-center">
+                                <a href="imagens/Tabela01.png" data-bs-toggle="modal" data-bs-target="#Tabela01">
+                                    <img class="img-fluid wow fadeInLeft" src="imagens/Tabela01.png" alt="Alt da imagem fica aqui">
+                                </a>
+                                <p class="FonteFigura"><strong>Figura XX: </strong>Nome da Figura Aqui</p>
+                            </div>
 
+                            <!-- Imagem 01 - MODAL -->
+                            <div class="modal fade text-center" id="Tabela01" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            <img class="img-fluid" src="imagens/Tabela01.png" alt="Alt da imagem fica aqui">
+                                        </div>
+                                        <div class="modal-footer text-center">
+                                            <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                        </div>
+                                    </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                            Coord Inventário
-
-                            Conferido por:
-                            Auditoria
-                            Contabilidade
-                            Aprovado por
-                            Controle de Diferenças de Inventário
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                                </div>
+                            </div>
+                            <!-- Figura 01 - End -->
 
 
 
