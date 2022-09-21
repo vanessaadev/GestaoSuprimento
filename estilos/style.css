@@ -1,0 +1,15 @@
+
+
+
+
+.borda1 {
+    border: 1px solid;
+    border-color: #44833d;
+}
+
+.card-body1 {
+    background: #c09703;
+    padding: 20px;
+    border-radius: 20px 60px; 
+    color: white;
+}
