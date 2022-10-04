@@ -1,107 +1,87 @@
 <?php
-// EGPCE - Chama o conectamoodle.php
-//require_once('conectamoodle.php');
+    // EGPCE - Chama o conectamoodle.php
+    //require_once('conectamoodle.php');
 ?>
 <?php
-// HEADER
+$page = 'index';
 include('layout/header.php');
 ?>
 
+<?php
+// HEADER
+    include('layout/header.php');
+?>
 <body>
     <!-- PLUGIN DO FADE IN -->
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>
         AOS.init();
     </script>
-
+    
     <!-- MENU -->
     <?php include('layout/menu.php') ?>
 
-    <div id="main">
-        <!-- NAV TOP -->
-        <?php include('layout/nav.php') ?>
-        <!-- CONTEUDO INICIO -->
-        <div class="main-content container-fluid Texto">
-            <div class="row">
-                <!-- Begin row -->
-                <div class="col-md-1"></div>
-                <div class="col-md-10">
-
-                    <!--CONTEUDO-->
-                    <h2 class="Titulo"> Apresentação</h2>
-                    <hr>
-
-                    <!-- Titulo Figura -->
-                    <div class="text-center">
-                        <a href="imagens/banner.jpg" data-bs-toggle="modal" data-bs-target="#Banner">
-                            <img class="img-fluid" src="imagens/banner.jpg" alt="Apresentação do curso">
-                        </a>
-                    </div>
-
-                    <br><p>A Escola de Gestão Pública do Estado do Ceará - EGPCE, em parceria com a Secretaria do Planejamento e Gestão - Seplag-CE, disponibiliza à sociedade o curso <strong>Guia Metodológico de Formulação de Agenda Estratégica Setorial</strong>, que visa assessorar e orientar os órgãos governamentais na concepção e elaboração de planos estratégicos setoriais, concedendo às políticas públicas maior previsão de efetividade.</p>
-
-                    <p>A centralidade deste curso, a Agenda Estratégica Setorial (AES), entendida como produto de planejamento de médio prazo, é um instrumento estratégico, com o objetivo de desdobrar e organizar a Estratégia de Desenvolvimento de Longo Prazo do Estado em planos setoriais. Sua formulação consta no novo ciclo de gestão do Governo do Ceará, no âmbito da Gestão para Resultados (GpR).</p>
-
-                    <p>Posto isso, e entendendo a Seplag como responsável pelo sistema de planejamento do Governo do Estado do Ceará e orientadora do fortalecimento desse novo paradigma de gestão, é de suma importância que a secretaria se corresponsabilize e subsidie as setoriais com ferramentas, métodos e técnicas de planejamento quando essas demandarem seu auxílio. Esse papel, inclusive, está em conformidade com o Decreto N° 32.216 de 2017, que regulamenta a GpR.</p>
-
-                    <p>É importante, também, pontuar que até o momento não há um método que normatize a criação de Agendas Setoriais, ou seja, inexiste um documento que concretize as boas práticas eventualmente adotadas, criando memória institucional, e que oriente as unidades setoriais de planejamento à melhoria contínua da gestão.</p>
-
-                    <p>Portanto, espera-se, com a utilização adequada desse instrumento, e orientação contínua da Seplag, </p>
+        <div id="main">
+            <!-- NAV TOP -->
+            <?php include('layout/nav.php') ?>
+            
+                <div class="main-content container-fluid" id="#Apresentacao"> <!-- Begin main-content -->
+                    <div class="row"> <!-- Begin row -->
+                        <div class="col-md-1"></div>
                         
-                    <ul class="none">
-                        <li><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Otimizar o processo de planejamento setorial e alinhá-lo à GpR; </li>
-                        <li><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Fortalecer o nível técnico na elaboração de Agendas; </li>
-                        <li><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Conectar o planejamento setorial ao desenvolvimento de longo prazo do Estado; </li>
-                        <li><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Qualificar os instrumentos de planejamento de curto prazo; e 
-                        <li><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> A gestão do conhecimento.</li>
-                    </ul>
+                        <div class="col-md-10"> <!-- Begin col-md-10 -->
+                            <div class="page-title Texto">
+                            
+                            <h2 class="Titulo">Apresentação</h2>
+                            <hr>
 
-                    <!-- SCRIPT INTERAÇAO COM ALUNO-->
-                    <ul class="none ">
-                        <li class="img-fluid wow fadeInLeft" data-wow-delay="0.3s"><i></i>
-                            <h4>
-                                Olá! <?php echo $NomeUsuario ?>, Bem-vindo(a) ao módulo 01 do curso <strong>Divisão do Guia Metodológico de Formulação das Agendas Estratégicas Setoriais</strong>! Esperamos que o conteúdo proposto contribua para aprimorar o seu conhecimento acerca do tema. Bons estudos!
-                            </h4>
-                        </li>
-                    </ul>
-                    <!-- FIM SCRIPT INTERAÇAO COM ALUNO-->
+                            <br>
+                         
+                            <p>O advento da promulgação da Lei Complementar nº 101, de 04 de maio de 2000 (Lei de Responsabilidade Fiscal) assim como o processo de convergência das normas de contabilidade pública aos padrões internacionais do IFRS - <em>International Financial Reporting Standards</em>, iniciado no ano de 2008, trouxeram uma maior atenção para alguns aspectos teóricos e práticos relativos à gestão patrimonial implantando inovações que contribuíram para uma maior transparência nas contas públicas, um maior controle e além de solidificar o cumprimento da Lei nº 4.320/64.
+                            <br><br>Dentre as principais alterações implantadas, está a previsão de depreciação para os bens públicos. Sendo que a maioria dos órgãos da administração pública, não executava este procedimento, embora houvesse previsão legal no Art. 104 da Lei nº 4.320/64. O desprezo até então dado às informações de custos, entre os quais se encontra a depreciação, impossibilitava ao gestor e a sociedade a real mensuração dos custos do poder público e o impacto destes no patrimônio das entidades.
+                            <br><br>Desde o ano de 2013 o Governo do Estado do Ceará, vem realizando um esforço no desenvolvimento de novos sistemas informatizados e capacitação de seus agentes públicos para adequação às novas práticas.
+                            <br><br>A Secretaria do Planejamento e Gestão – Seplag em colaboração com a Escola de Gestão Pública do Ceará – Egpce apresentam neste curso a reunião de aspectos teóricos, procedimentos práticos e legislação até então desenvolvidos com relação a gestão de materiais permanentes (bens móveis) e seu sistema informatizado de controle, de forma a oferecer a atualização permanente aos órgãos e entidades do Poder Executivo Estadual</p>
 
+                            <br>
 
-                    <!-- SCRIPT LIGHTBOX -->
-                    <script>
-                        $(document).on('click', '[data-toggle="lightbox"]', function(event) {
-                            event.preventDefault();
-                            $(this).ekkoLightbox();
-                        });
+                            <h2 class="Titulo">Objetivo</h2>
+                            <hr>
 
-                        $('#myModal').on('shown.bs.modal', function() {
-                            $('#myInput').trigger('focus')
-                        })
-                    </script>
-                    <!--  FIM SCRIPT LIGHTBOX -->
+                            <br>
+                                                                       
+                            <p>Compreender as técnicas usuais de gestão de materiais permanentes, assim como a legislação vigente e sua aplicabilidade no cotidiano operacional da administração pública estadual.</p>
+                                                                       
+                                          
+                            
+                            <br><br><!-- SCRIPT LIGHTBOX -->
+                            <script>
+                                $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+                                    event.preventDefault();
+                                    $(this).ekkoLightbox();
+                                });                    
+                            </script>
+
+                            </div> <!-- End page-title -->                            
+                        </div> <!-- End page-title -->
+
+                        <div class="col-md-1"></div>
+                    </div> <!-- End row -->
+                    
                     <!-- Botões de navegação -->
                     <div class="text-center">
-
                         <a href="Topico01.php" class="btn btn-primary" role="button" aria-pressed="true">Próximo <i class="fa fa-chevron-right"></i></a>
                     </div>
-                    <!--  Fim Botões de navegação -->
 
-                    <!-- FIM DIV col-md-10 -->
-                </div>
-                <div class="col-md-1"></div>
-                <!--  FIM DIV ROW -->
-            </div>
-            <!-- FIM DIV CONTEINER  -->
-        </div>
-        <!-- FIM DIV MAIN  -->
-    </div>
+                </div> <!-- End main-content -->                 
 
-    <!-- FOOTER -->
-    <?php include('layout/footer.php') ?>
-
-    <!-- FOOTER JS -->
-    <?php include('layout/js.php') ?>
+            
+            <!-- FOOTER -->
+            <?php include('layout/footer.php') ?>
+        
+        </div> <!-- DIV MAIN FIM -->
+        
+        <!-- FOOTER JS -->
+        <?php include('layout/js.php') ?>
 
 </body>
-
 </html>
