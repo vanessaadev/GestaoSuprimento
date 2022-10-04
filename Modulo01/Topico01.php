@@ -1,7 +1,8 @@
 <?php
 // EGPCE - Chama o conectamoodle.php
-//require_once('conectamoodle.php');
+require_once('conectamoodle.php');
 ?>
+
 <?php
 $page = 'Topico01';
 include('layout/header.php');

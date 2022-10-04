@@ -1,7 +1,8 @@
 <?php
 // EGPCE - Chama o conectamoodle.php
-//require_once('conectamoodle.php');
+require_once('conectamoodle.php');
 ?>
+
 <?php
 // HEADER
 include('layout/header.php');
@@ -33,8 +34,8 @@ include('layout/header.php');
 
                     <!-- Titulo Figura -->
                     <div class="text-center">
-                        <a href="imagens/banner.jpg" data-bs-toggle="modal" data-bs-target="#Banner">
-                            <img class="img-fluid" src="imagens/banner.jpg" alt="Apresentação do curso">
+                        <a href="imagens/banner.png" data-bs-toggle="modal" data-bs-target="#Banner">
+                            <img class="img-fluid" src="imagens/banner.png" alt="Apresentação do curso">
                         </a>
                     </div>
 

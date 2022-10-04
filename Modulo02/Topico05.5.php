@@ -1,6 +1,6 @@
 <?php
     // EGPCE - Chama o conectamoodle.php
-  //  require_once('conectamoodle.php');
+  require_once('conectamoodle.php');
 ?>
 
 <?php
