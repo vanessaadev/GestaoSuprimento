@@ -1,0 +1,26 @@
+
+
+
+
+.borda1 {
+    border: 1px solid;
+    border-color: #44833d;
+}
+
+.card-body1 {
+    background: #c09703;
+    padding: 20px;
+    border-radius: 20px 60px; 
+    color: white;
+}
+
+.colunaverde {
+    text-align: center;
+    vertical-align: auto;
+    color: white;
+    width: 100;
+    background-color: #58b34e !important;
+}
+
+
+
